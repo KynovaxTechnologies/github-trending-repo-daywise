@@ -1,0 +1,66 @@
+ elementalsouls / Claude-BugHunter
+A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+
+ Python  20,835  2,187 Built by @claude @injectifytest @elementalsouls @github-actions @rudycelekli 1,833 stars today
+ obra / superpowers
+An agentic skills framework & software development methodology that works.
+
+ Shell  325,633  28,881 Built by @obra @arittr @claude @clkao @arimu1 1,006 stars today
+ HKUDS / CLI-Anything
+"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+
+ Python  64,354  5,869 Built by @yuh-yang @claude @AiMiDi @omerarslan0 @hito0512 1,075 stars today
+ jingyaogong / minimind
+🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
+
+ Python  69,971  9,117 Built by @jingyaogong @iomgaa-ycz @Linxiushen @basil-k-aji-dev @readlnh 727 stars today
+ cursor / plugins
+Cursor plugin specification and official plugins
+
+ TypeScript  19,050  2,057 Built by @cursoragent @poteto @djiang-jq @minupalaniappan @ericzakariasson 359 stars today
+ firecrawl / firecrawl
+Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
+
+ TypeScript  208,514  10,897 Built by @nickscamara @mogery @rafaelsideguide @abimaelmartell @claude 990 stars today
+ nginx / nginx
+The official NGINX Open Source repository.
+
+ C  33,143  8,392 Built by @mdounin @arut @vl-homutov @VBart @pluknet 158 stars today
+ openvinotoolkit / openvino
+OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+
+ C++  12,392  3,686 Built by @ilya-lavrenov @rkazants @ilyachur @mvafin @dependabot 187 stars today
+ cathrynlavery / diagram-design
+Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+
+ HTML  71,573  4,778 Built by @cathrynlavery @github-actions @rudycelekli @mvanhorn @claude 794 stars today
+ mvanhorn / last30days-skill
+AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+
+ Python  73,876  6,518 Built by @mvanhorn @claude @tmchow @iliaal @dependabot 695 stars today
+ google-labs-code / stitch-skills
+A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+
+ TypeScript  12,529  1,522 Built by @JLXIA @davideast @rudycelekli @Emp1500 @dalmaer 401 stars today
+ mjmirza / app-store-compliance
+Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
+
+ Shell  5,499  355 Built by @mjmirza @google-labs-jules @omaralbeik @akash5852 @JoAdo07 936 stars today
+ Tracer-Cloud / opensre
+The open-source agent for CI/CD reliability.
+
+ Python  15,051  2,004 Built by @davincios @VaibhavUpreti @muddlebee @YauhenBichel @cursoragent 408 stars today
+ toeverything / AFFiNE
+There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+
+ TypeScript  77,734  5,685 Built by @darkskygit @pengx17 @JimmFly @renovate @EYHN 589 stars today
+ XiaoYouChR / Ghost-Downloader-3
+The only downloader you need. 下载器的集大成者。
+
+ Python  17,037  1,029 Built by @XiaoYouChR @github-actions @i0ntempest @Alpha-Qian @LittleNightSong 1,102 stars today
+ zhouxiaoka / autoclip
+AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
+
+ Python  15,114  2,255 Built by @zhouxiaoka @cursoragent @claude @JasonOA888 @mitsa-ng 981 stars today
+Footer
+© 2026 GitHub, In
